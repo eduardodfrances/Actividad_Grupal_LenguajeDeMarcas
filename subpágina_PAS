@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peliculas a seguir en 2026</title>
+</head>
+<body>
+    
+    <header>
+    <h1>Nuestras películas favoritas</h1>
+    </header>
+
+    <nav class="menu">
+    <ul class="menu-list">
+        <li><a href="#peliculas">Películas</a></li>
+        <li><a href="#ranking">Ranking</a></li>
+        <li><a href="#premios">Premios</a></li>
+        <li><a href="#cartelera">Cartelera</a></li>
+        <li><a href="#PAS">Peliculas a seguir</a></li>
+    </ul>
+    </nav>
+
+<section id="PAS" class="section">
+    <h2>Películas a seguir en 2026</h2>
+    <p>En esta sección repasaremos los estrenos más esperados
+     de 2026, centrándonos en aquellas películas que han 
+     generado mayor expectación, ya sea por formar parte de 
+     franquicias populares o por ofrecer ideas nuevas 
+     e innovadoras que prometen sorprender al público.</p>
+
+    <article id="pelicula_1">
+        <h4>Avengers: Doomsday</h4>
+
+        <p>Tras los acontecimientos de las últimas fases 
+         del universo cinematográfico de Marvel, esta entrega 
+         promete un conflicto mucho más oscuro y épico, 
+         con la aparición de uno de los villanos más icónicos 
+         de los cómics: el Doctor Doom, interpretado por 
+         Robert Downey Jr. Con un reparto lleno 
+         de personajes conocidos y nuevas incorporaciones, 
+         la película aspira a convertirse en el mayor evento
+         en el UCM hasta la fecha.</p>
+
+         <img src="Avengers_Doomsday.png" alt="Avengers: Doomsday">
+
+        <p><em>Fecha de estreno:</em> 18 de diciembre de 2026<br>
+        <em>Director:</em> Joe y Anthony Russo<br>
+        <em>Género:</em> Acción, superhéroes, ciencia ficción<br></p>
+        
+    </article>
+
+    <article id="pelicula_2">
+        <h4>Toy Story 5</h4>
+        
+        <p>La saga más famosa de Pixar regresa con su quinta 
+        entrega, donde Woody, Buzz y el resto de los juguetes 
+        se embarcan en una nueva aventura en la que explorarán 
+        cómo ha cambiado el mundo para ellos en una época 
+        dominada por la tecnología.<br>
+        Esta nueva entrega seguirá ofreciendo su habitual humor, 
+        emoción y valores sobre la amistad que ya hemos podido 
+        disfrutar en sus entregas anteriores, buscando asi 
+        continuar el legado de una de las franquicias más 
+        importantes de la animación.</p>
+        
+        <img src="Toy_Story_5.jpeg" alt="Toy Story 5">
+
+        <p><em>Fecha de estreno:</em> 19 de junio de 2026<br>
+        <em>Director:</em> Andrew Stanton<br>
+        <em>Género:</em> Aventuras, comedia, familiar y animación<br></p>
+    </article>
+
+    <article id="pelicula_3">
+        <h4>La odisea</h4>
+
+        <p>La famosa Odisea de Homero recibe su adaptación a la 
+        gran pantalla de la mano de Christopher Nolan, en 
+        la cual aparecerán varias de las mayores estrellas 
+        del cine actual como Matt Damon, Anne Hathaway, 
+        Tom Holland o Zendaya. <br>
+        Esta película narrará el largo viaje de Odiseo (Ulises) 
+        de regreso a su hogar tras la guerra de Troya, donde 
+        deberá atravesar criaturas mitológicas, enfrentar a 
+        dioses y superar varios obstáculos que pondrán a prueba 
+        su ingenio, valentía y determinación.</p>
+
+        <img src="La_odisea.jpg" alt="La Odisea">
+
+
+        <p><em>Fecha de estreno:</em> 17 de junio de 2026<br>
+        <em>Director:</em>Christopher Nolan<br>
+        <em>Género:</em> Fantasía, aventuras, acción, cine 
+        histórico y cine épico<br>
+        </p>
+    </article>
+
+    <!--Falta añadir mas peliculas-->
+
+
+
+</body>
+</html>

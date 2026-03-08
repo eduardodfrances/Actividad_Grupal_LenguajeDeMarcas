@@ -94,16 +94,20 @@ body{
     border: none;
     cursor: pointer
 }
-body{
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #a56666
+.miBoton {
+    background-color: #a56666; /* color normal */
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* animación suave */
+    }
+
+.miBoton:hover {
+    background-color: #cea1a1; /* color al pasar el ratón */
 }
-section{
-    background-color: #cea1a1;
-    padding: 25px;
-    border: 1px solid #000000;
-}
+
 #cartelera {
     padding: 10px;
     border: 2px solid #000000;
@@ -148,5 +152,6 @@ section{
     text-align: center;
     padding: 15px;
 }
+
 
 

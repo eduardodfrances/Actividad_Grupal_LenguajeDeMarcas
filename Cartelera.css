@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #a56666
+}
+section{
+    background-color: #cea1a1;
+    padding: 25px;
+    border: 1px solid #000000;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+p{
+    text-align: center;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    text-size-adjust: unset;
+}
+
+.peliculas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* separación entre recuadros */
+}
+
+.pelicula {
+    width: 180px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.pelicula img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+
+.footer {
+    background-color: #a56666;
+    color:#000000;
+    text-align: center;
+    padding: 30px;
+}

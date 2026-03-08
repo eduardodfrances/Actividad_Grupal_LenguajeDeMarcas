@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Peliculas a seguir en 2026</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     
@@ -33,20 +34,25 @@
         <h4>Avengers: Doomsday</h4>
 
         <p>Tras los acontecimientos de las últimas fases 
-         del universo cinematográfico de Marvel, esta entrega 
-         promete un conflicto mucho más oscuro y épico, 
-         con la aparición de uno de los villanos más icónicos 
-         de los cómics: el Doctor Doom, interpretado por 
-         Robert Downey Jr. Con un reparto lleno 
-         de personajes conocidos y nuevas incorporaciones, 
-         la película aspira a convertirse en el mayor evento
-         en el UCM hasta la fecha.</p>
+        del universo cinematográfico de Marvel, esta entrega 
+        promete un conflicto mucho más oscuro y épico, 
+        con la aparición de uno de los villanos más icónicos 
+        de los cómics: el Doctor Doom, interpretado por 
+        Robert Downey Jr. Con un reparto lleno 
+        de personajes conocidos y nuevas incorporaciones, 
+        la película aspira a convertirse en el mayor evento
+        en el UCM hasta la fecha.
+        </p>
 
-         <img src="Avengers_Doomsday.png" alt="Avengers: Doomsday">
+        <img src="Avengers_Doomsday.png" alt="Avengers">
 
         <p><em>Fecha de estreno:</em> 18 de diciembre de 2026<br>
-        <em>Director:</em> Joe y Anthony Russo<br>
-        <em>Género:</em> Acción, superhéroes, ciencia ficción<br></p>
+        <em>Directores:</em> Joe y Anthony Russo<br>
+        <em>Género:</em> Acción, Superhéroes, Ciencia ficción<br>
+        <em>Duración:</em> Por determinar<br>
+        <a href="https://www.youtube.com/watch?v=kH1XlwHQv9o">
+        <em>Trailer</em></a>
+        </p>
         
     </article>
 
@@ -57,18 +63,24 @@
         entrega, donde Woody, Buzz y el resto de los juguetes 
         se embarcan en una nueva aventura en la que explorarán 
         cómo ha cambiado el mundo para ellos en una época 
-        dominada por la tecnología.<br>
+        dominada por la tecnología.
         Esta nueva entrega seguirá ofreciendo su habitual humor, 
         emoción y valores sobre la amistad que ya hemos podido 
         disfrutar en sus entregas anteriores, buscando asi 
         continuar el legado de una de las franquicias más 
         importantes de la animación.</p>
         
-        <img src="Toy_Story_5.jpeg" alt="Toy Story 5">
+        <img src="Toy_Story_5.jpeg" alt="Toy5">
 
         <p><em>Fecha de estreno:</em> 19 de junio de 2026<br>
         <em>Director:</em> Andrew Stanton<br>
-        <em>Género:</em> Aventuras, comedia, familiar y animación<br></p>
+        <em>Género:</em> Aventuras, Comedia, Familiar,  
+        Animación<br>
+        <em>Duración:</em> Por determinar<br>
+        <a href="https://www.youtube.com/watch?v=w56cHtfyGT8">
+        <em>Trailer</em></a>
+        </p>
+        
     </article>
 
     <article id="pelicula_3">
@@ -78,24 +90,105 @@
         gran pantalla de la mano de Christopher Nolan, en 
         la cual aparecerán varias de las mayores estrellas 
         del cine actual como Matt Damon, Anne Hathaway, 
-        Tom Holland o Zendaya. <br>
+        Tom Holland o Zendaya. 
         Esta película narrará el largo viaje de Odiseo (Ulises) 
         de regreso a su hogar tras la guerra de Troya, donde 
         deberá atravesar criaturas mitológicas, enfrentar a 
         dioses y superar varios obstáculos que pondrán a prueba 
         su ingenio, valentía y determinación.</p>
 
-        <img src="La_odisea.jpg" alt="La Odisea">
+        <img src="La_odisea.jpg" alt="Odisea">
 
 
         <p><em>Fecha de estreno:</em> 17 de junio de 2026<br>
         <em>Director:</em>Christopher Nolan<br>
-        <em>Género:</em> Fantasía, aventuras, acción, cine 
-        histórico y cine épico<br>
+        <em>Género:</em> Fantasía, Aventuras, Acción, Cine 
+        histórico, Cine épico<br>
+        <em>Duración:</em> Por determinar<br>
+        <a href="https://www.youtube.com/watch?v=o1HQSh6zZ8s">
+        <em>Trailer</em></a>
+        </p>
+
+    </article>
+
+    <article id="pelicula_4">
+        <h4>Michael</h4>
+
+        <p>Michael es una película biográfica dedicada a la vida 
+         y carrera de Michael Jackson, una de las figuras más 
+         influyentes de la historia de la música. La película 
+         nos mostrará su vida y carrera, desde sus 
+         inicios hasta convertirse en el "Rey del Pop".Con 
+         recreaciones de algunas de sus actuaciones más 
+         icónicas y un enfoque centrado en su legado artístico, 
+         el biopic busca ofrecer una mirada profunda a la vida 
+         del legendario artista.</p>
+
+        <img src="Michael.jpg" alt="MJ">
+
+
+        <p><em>Fecha de estreno:</em> 24 de abril de 2026<br>
+        <em>Director:</em>Antoine Fuqua<br>
+        <em>Género:</em> Biográfica, Música<br>
+        <em>Duración:</em> 130 minutos<br>
+        <a href="https://www.youtube.com/watch?v=o1HQSh6zZ8s">
+        <em>Trailer</em></a>
         </p>
     </article>
 
-    <!--Falta añadir mas peliculas-->
+    <article id ="pelicula_5">
+        <h4>El dia de la revelación</h4>
+
+        <p>El Día de la Revelación es la nueva película 
+        de ciencia ficción dirigida por Steven Spielberg, 
+        la cual promete recuperar el estilo de misterio y 
+        asombro que ha caracterizado muchas de sus obras 
+        más conocidas.La historia gira en torno a un acontecimiento 
+        extraordinario que cambiará para siempre la forma en que 
+        la humanidad entiende su lugar en el universo. A medida 
+        que comienzan a aparecer señales inexplicables en 
+        diferentes partes del mundo, científicos, gobiernos y 
+        ciudadanos deberán enfrentarse a una revelación que podría 
+        transformar el futuro de la humanidad.</p>
+
+        <img src="Revelacion.jpg" alt="Revelacion">
+
+        <p><em>Fecha de estreno:</em> 20 de diciembre de 2026<br>
+        <em>Director:</em> James Cameron<br>
+        <em>Género:</em> Ciencia ficción, Aventuras, Acción<br>
+        <em>Duración:</em> Por determinar<br>
+        <a href="https://www.youtube.com/watch?v=EGr_N0vu0T0">
+        <em>Trailer</em></a>
+        </p>
+
+    </article>
+
+    <article id="pelicula_6">
+        <h4>The Super Mario Galaxy Movie</h4>
+
+        <p>En esta nueva historia, Mario y Luigi deberán 
+        enfrentarse a nuevas amenazas mientras exploran 
+        escenarios mucho más amplios, incluso más allá del 
+        Reino Champiñón. Durante su aventura conocerán 
+        nuevos aliados, como Rosalina y Yoshi, mientras 
+        intentan detener los planes de Bowser y otros villanos 
+        que amenazan el equilibrio del universo.Con personajes 
+        icónicos, nuevas localizaciones y una aventura de escala 
+        galáctica, se perfila como uno de los estrenos familiares 
+        y de animación más esperados de 2026.</p>
+
+        <img src="Mario_Galaxy.jpeg" alt="Mario">
+
+        <p><em>Fecha de estreno:</em> 1 de abril de 2026<br>
+        <em>Directores:</em> Michael Jelenic, Aaron Horvath<br>
+        <em>Género:</em>Animación,Acción, Aventura, Comedia<br>
+        <em>Duración:</em> 1h 38m<br>
+        <a href="https://www.youtube.com/watch?v=iTzCWDQSwvk">
+        <em>Trailer</em></a>
+        </p>
+        
+
+    </article>
 
 
 

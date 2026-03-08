@@ -98,9 +98,38 @@ img {
     border: none;
     cursor: pointer
 }
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #a56666
+}
+section{
+    background-color: #cea1a1;
+    padding: 25px;
+    border: 1px solid #000000;
+}
+#cartelera {
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #cea1a1;
+}
+
+#cartelera img{
+    height: 300px;
+
+}
+.peliculas{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px; /* separación entre recuadros */
+
+}
+
 .footer {
     background-color: #a56666;
     color:#000000;
     text-align: center;
-    padding: 30px;
+    padding: 15px;
 }

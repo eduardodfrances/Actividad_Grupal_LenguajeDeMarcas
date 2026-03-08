@@ -126,6 +126,16 @@ body{
     gap: 32px; /* separación entre recuadros */
 
 }
+img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+#sinopsis {
+    flex: 1;
+    text-align: left;
+    min-width: 200px;
+}
 #premios img {
     width: 160px;
     border-radius: 5px;
@@ -152,6 +162,7 @@ body{
     text-align: center;
     padding: 15px;
 }
+
 
 
 

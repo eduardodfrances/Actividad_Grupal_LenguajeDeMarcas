@@ -126,6 +126,25 @@ section{
     gap: 32px; /* separación entre recuadros */
 
 }
+#premios img {
+    width: 160px;
+    border-radius: 5px;
+}
+
+#Favoritas img {
+    width: 160px;
+    border-radius: 5px;
+}
+
+#PAS img {
+    width: 160px;
+    border-radius: 5px;
+}
+
+#populares img {
+    width: 160px;
+    border-radius: 5px;
+}
 
 .footer {
     background-color: #a56666;
@@ -133,3 +152,4 @@ section{
     text-align: center;
     padding: 15px;
 }
+

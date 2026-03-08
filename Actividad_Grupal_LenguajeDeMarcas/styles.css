@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #a56666
+}
+.header{
+    background-color: #a56666;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 40px;
+}
+
+.integrantes{
+   background-color: #cea1a1;
+   color: rgb(0, 0, 0);
+   text-align: center;
+   list-style: none;
+   padding: 20px;
+   border: 10px;
+}
+
+.nombres-list{
+   list-style: none;
+   text-align: center;
+}
+.menu{
+    background-color: #a56666;
+    color:rgb(0, 0, 0)
+}
+
+.menu-list{
+    list-style: none;
+    margin: 0;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.menu-list a{
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+.main {
+    width: 85%;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 40px
+}
+.section {
+    background-color: #cea1a1;
+    padding: 25px;
+    border: 1px solid #000000;
+}
+.section h2{
+    margin-top: 0;
+    border-bottom: 2px solid;
+    padding-bottom: 10px
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group input, .form-group textarea {
+    padding: 10px;
+    border: 1px solid;
+}
+
+.form-group textarea {
+    height: 120px;
+}
+
+.form-group input[type="submit"] {
+    width: 160px;
+    background-color: #a56666;
+    color: #000000;
+    border: none;
+    cursor: pointer
+}
+
+.form-group input[type="submit"]:hover {
+    width: 160px;
+    background-color: #a56666;
+    color: #000000;
+    border: none;
+    cursor: pointer
+}
+.miBoton {
+    background-color: #a56666; /* color normal */
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* animación suave */
+    }
+
+.miBoton:hover {
+    background-color: #cea1a1; /* color al pasar el ratón */
+}
+
+#cartelera {
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #cea1a1;
+}
+
+#cartelera img{
+    height: 300px;
+
+}
+.peliculas{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px; /* separación entre recuadros */
+
+}
+#premios img {
+    width: 160px;
+    border-radius: 5px;
+}
+
+#Favoritas img {
+    width: 160px;
+    border-radius: 5px;
+}
+
+#PAS img {
+    width: 160px;
+    border-radius: 5px;
+}
+
+#populares img {
+    width: 160px;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #371919;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+
+
+#populares img {
+    width: 160px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+#populares article {
+    clear: both;
+    overflow: hidden;
+}
+
+img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+#sinopsis {
+    flex: 1;
+    text-align: left;
+    min-width: 200px;
+
+}
+#Favoritas img {
+    width: 160px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+a{
+    color: inherit;
+}
+
+.section article {
+    clear: both;
+    overflow: hidden;
+}
+
